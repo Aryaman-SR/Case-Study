@@ -1,0 +1,49 @@
+li
+{
+    display: list-item;
+   
+}
+
+ol
+{
+  list-style-type: decimal;
+}
+
+body
+{
+ font-family: 'Special Elite',cursive;
+ font-size: 14px;
+ line-height: 1.42857143;
+ background-color: rgb(75, 69, 69);
+ color:rgb(255, 255, 255);
+}
+
+.text_images_and_result
+{
+    background-color: wheat;
+    border-radius: 10px;
+    width: 50%;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-top: 15px; 
+    box-shadow: 5px 5px 18px black;
+    margin-bottom: 15px;
+}
+
+.text_images_and_result img
+{
+    width: 100px;
+}
+
+
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color:white ;
+    color: cornflowerblue;
+    line-height: 3;
+    text-align:center ;
+    width: 100%;
+    bottom: 0;
+}
